@@ -1,0 +1,2 @@
+# AuroraDiscord
+Utility Discord Bot
